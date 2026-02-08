@@ -1,6 +1,7 @@
 # Taskflow <img align="right" width="10%" src="image/taskflow_logo.png">
 
-<!--[![Linux Build Status](https://travis-ci.com/taskflow/taskflow.svg?branch=master)](https://travis-ci.com/taskflow/taskflow)-->
+<!--[![Linux Build Status](https://travis-ci.com/taskflow/taskflow.svg?branch=master)](https://travis-ci.com/taskflow/taskflow)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Ftaskflow.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Ftaskflow?ref=badge_shield)
+-->
 [![Ubuntu](https://github.com/taskflow/taskflow/workflows/Ubuntu/badge.svg)](https://github.com/taskflow/taskflow/actions?query=workflow%3AUbuntu)
 [![macOS](https://github.com/taskflow/taskflow/workflows/macOS/badge.svg)](https://github.com/taskflow/taskflow/actions?query=workflow%3AmacOS)
 [![Windows](https://github.com/taskflow/taskflow/workflows/Windows/badge.svg)](https://github.com/taskflow/taskflow/actions?query=workflow%3AWindows)
@@ -436,3 +437,6 @@ You are completely free to re-distribute your work derived from Taskflow.
 [Cpp Conference 2018]:   https://github.com/CppCon/CppCon2018
 [TPDS22]:                https://tsung-wei-huang.github.io/papers/tpds21-taskflow.pdf
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Ftaskflow.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Ftaskflow?ref=badge_large)
